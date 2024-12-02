@@ -241,7 +241,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "6470e24e-26a5-43e1-9e72-bbd13a9d99a7",
    "metadata": {},
    "outputs": [],
